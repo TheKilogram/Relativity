@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: dd37e1f7b9b117a4296276262f0199c6
+timeCreated: 1449031000
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlackHoleSprieSheet_0
+    21300002: BlackHoleSprieSheet_1
+    21300004: BlackHoleSprieSheet_2
+    21300006: BlackHoleSprieSheet_3
+    21300008: BlackHoleSprieSheet_4
+    21300010: BlackHoleSprieSheet_5
+    21300012: BlackHoleSprieSheet_6
+    21300014: BlackHoleSprieSheet_7
+    21300016: BlackHoleSprieSheet_8
+    21300018: BlackHoleSprieSheet_9
+    21300020: BlackHoleSprieSheet_10
+    21300022: BlackHoleSprieSheet_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BlackHoleSprieSheet_0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_1
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 92
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_3
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 92
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_6
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_7
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_8
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 92
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_9
+      rect:
+        serializedVersion: 2
+        x: 5942
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_10
+      rect:
+        serializedVersion: 2
+        x: 6583
+        y: 92
+        width: 270
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BlackHoleSprieSheet_11
+      rect:
+        serializedVersion: 2
+        x: 7224
+        y: 92
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
